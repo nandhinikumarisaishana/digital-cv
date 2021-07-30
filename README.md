@@ -27,7 +27,7 @@
                                                      HTML in Udemy
                                               🌏 Inplant Training:
                                                     Application Development using C at UNIQ Technologies
-                                              Workshop:
+                                              🎗Workshop:
                                                      Attended a Workshop on Python With Android
                                               Development conducted by Uniq Technologies
                                                 
