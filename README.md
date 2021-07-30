@@ -1,15 +1,16 @@
-                                                               HELLO GUYS....!✋
+                                                               HELLO GUYS....!✋✨
                                                   I am Nandhini Kumari.S  pursuing undergraduation in 
                                               Kamaraj College of Engineering and Technology,Virudhunagar.
-                                              
-                                              📩Technical Skills:
+                                              Gmail:nandhini642001@gmail.com  
+
+                                             📚Technical Skills:
                                                       C Programming
                                                       Python
                                                       HTML
                                                       CSS
                                                       PHP
                                                       SQL
-                                              📚Skills:
+                                              📩Skills:
                                                      Leadership
                                                      Communication Skills
                                                      Positive Attitude
